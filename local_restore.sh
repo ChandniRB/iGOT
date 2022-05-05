@@ -1,4 +1,4 @@
-directory_path=/home/nic/Desktop/iGOT/KnowledgePlatform/cassandra/cassandra_backup_2022-04-11
+directory_path=~/cassandra_backup_2022-04-11
 file_name=schema.cql
 
 for d in $directory_path/*; do
